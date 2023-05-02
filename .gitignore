@@ -1,0 +1,36 @@
+.DS_Store
+${fileGz}
+.mvn
+mvnw
+mvnw.cmd
+HELP.md
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+src/main/resources/data/
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+forGitproject
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*.log
+*.gz
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+
+### VS Code ###
+.vscode/
