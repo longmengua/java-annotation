@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/api")
 public class API {
     @GetMapping("")
-    @CKS()
+    @CKS
     public String demo() {
         return "verified successfully";
     }
